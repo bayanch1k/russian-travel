@@ -6,4 +6,4 @@
 ## Цель проекта 
 - закрепить на практике изученные материалы из первых трех спринтов обучения.
 
-## [Ссылка на проект &rarr;]https://bayanch1k.github.io/russian-travel/
+## Ссылка на проект &rarr; https://bayanch1k.github.io/russian-travel/
