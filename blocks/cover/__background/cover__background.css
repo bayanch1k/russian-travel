@@ -18,7 +18,7 @@
   .cover__background::before {
     content: '';
     display: block;
-    background-color: #000;
+    background-color: #000000;
     opacity: 0.3;
     position: absolute;
     top: 0;
