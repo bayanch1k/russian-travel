@@ -5,17 +5,16 @@
     list-style-type: none;
     grid-template-columns: repeat(auto-fit, minmax(284px, 1fr));
     gap: 12px;
-    width: 100%;
   }
   
-  @media screen and (max-width: 1024px) {
+  @media screen and (max-width: 1025px) {
     .photo-grid__list {
       grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
       gap: 11px;
     }
   }
   
-  @media screen and (max-width: 768px) {
+  @media screen and (max-width: 769px) {
     .photo-grid__list {
       grid-template-columns: repeat(auto-fit, minmax(352px, 1fr));
       gap: 13px;

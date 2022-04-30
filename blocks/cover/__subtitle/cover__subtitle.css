@@ -1,4 +1,4 @@
-.cover__subtittle {
+.cover__subtitle {
   max-width: 360px;
   font-family: "Inter", "Arial ", sans-serif;
   margin: 2rem auto 0;
@@ -10,7 +10,7 @@
 }
 
 @media screen and (max-width: 768px) {
-  .cover__subtittle {
+  .cover__subtitle {
     margin: calc(1rem + (100vw - 320px) / (768 - 320) * (32 - 16)) auto 0;
     font-size: calc(0.875rem + (100vw - 320px) / (768 - 320) * (18 - 14));
   }

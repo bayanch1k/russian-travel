@@ -3,6 +3,7 @@
   font-size: 4.5rem;
   font-weight: 900;
   line-height: 4.75rem;
+  font-family: "Inter", "Arial ", sans-serif;
 }
 
 @media screen and (max-width: 1024px) {
